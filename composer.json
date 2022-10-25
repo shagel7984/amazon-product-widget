@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "markdwhite/php-paapi5-sdk": "master"
+    "drunomics/paapi5-php-sdk": ""1.1.2"
   }
 }
