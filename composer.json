@@ -10,15 +10,6 @@
     }
   ],
   "require": {
-    "markdwhite/php-paapi5-sdk": "dev-master"
-  },
-  "extra": {
-    "composer-exit-on-patch-failure": true,
-    "patches": {
-      "drunomics/amazon_product_widget": {
-        "Coding standards fixed": "https://git.drupalcode.org/project/amazon_product_widget/-/merge_requests/4/diffs.patch",
-        "Drupal 10 compatibility": "https://www.drupal.org/files/issues/2022-07-19/amazon_product_widget.1.5.x-dev.rector.patch"
-      }
-    }
+    "markdwhite/php-paapi5-sdk": "master"
   }
 }
