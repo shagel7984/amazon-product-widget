@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "drunomics/paapi5-php-sdk": ""1.1.2"
+    "drunomics/paapi5-php-sdk": "1.1.2"
   }
 }
