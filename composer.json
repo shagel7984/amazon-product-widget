@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "markdwhite/php-paapi5-sdk": "^1.1.2"
+    "markdwhite/php-paapi5-sdk": "dev-master"
   },
   "extra": {
     "composer-exit-on-patch-failure": true,
